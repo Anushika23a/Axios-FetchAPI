@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@700;500&display=swap');
+.App {
+ font-family: 'Playfair Display', serif;
+ margin: 20px 15vw;
+}
+h2 {
+ font-family: 'Playfair Display', serif;
+ font-weight: 700;
+ font-size: 3em;
+}
+button {
+ padding: 1em 1.2em;
+ border: none;
+ font-size: 1em;
+ background-color: #131212;
+ color: #ffffff;
+ border-radius:0.5em;
+ cursor: pointer;
+}
+button:hover{
+ background-color:#3b3b3b;
+}
